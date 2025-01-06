@@ -1,2 +1,2 @@
 cout<<"Hello World"<<endl;
-print('hello omar');
+print('hello omarr');
