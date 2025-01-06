@@ -1,1 +1,1 @@
-cout<<"Hello ITI"<<endl;
+omarcout<<"Hello ITI"<<endl;
